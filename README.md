@@ -27,6 +27,6 @@ All captured data is encrypted and optionally emailed.
   - `requests`
   - `pywin32`
 
-Install all dependencies:
+Install all dependencies
 ```bash
 pip install -r requirements.txt
