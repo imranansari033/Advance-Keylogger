@@ -46,7 +46,7 @@ password = "your password"   # app password
 toaddr = "your_mail@gmail.com"
 key = "generated key"
 
-file_path = "C:\\Users\\IMRAN\\OneDrive\\Documents\\Files\\Keylogger"
+file_path = "ENTER_FILE_PATH"
 extend = "\\"
 file_merge = file_path + extend
 
